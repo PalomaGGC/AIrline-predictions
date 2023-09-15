@@ -1,0 +1,18 @@
+.DS_Store
+Aeroline.code-workspace
+Briefing_Proyecto_Aerolineas.docx
+/aerolinea_env
+airline_passenger_satisfaction.csv
+github.com:AI-School-F5-P2:Aerolinea_equipo_3.webloc
+trello.com:b:GM7OHFK8:equipo-3-f5-airlines.webloc
+.ipynb_checkpoints/
+briefing:.webloc
+historia de usuario.webloc
+trello.com:b:GM7OHFK8:equipo-3-f5-airlines.webloc
+data/
+env/
+__pycache__/
+gb_pipeline.pkl
+lgbm_pipeline.pkl
+rf_pipeline.pkl
+data/
